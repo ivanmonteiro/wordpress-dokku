@@ -1,0 +1,6 @@
+{
+    "name": "default/wordpress-dokku",
+    "require": {
+        "php": ">=5.2.4"
+    }
+}
