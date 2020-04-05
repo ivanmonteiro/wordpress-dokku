@@ -1,6 +1,8 @@
 {
     "name": "default/wordpress-dokku",
     "require": {
-        "php": ">=5.2.4"
+        "php": ">=5.2.4",
+        "ext-gd": "*",
+        "ext-imagick": "*"
     }
 }
